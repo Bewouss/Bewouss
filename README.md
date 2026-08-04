@@ -13,7 +13,7 @@
 
 ## <p align="center"> Languages, Frameworks & Tools </p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,bash,java,lua,cs,c,r,unity,vscode,eclipse,kali,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,bash,java,lua,cs,c,unity,vscode,eclipse,kali" />
 </div>
 
 
