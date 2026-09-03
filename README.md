@@ -10,7 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bewouss/Bewouss/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Bewouss/Bewouss/output/github-snake-light.svg">
   </picture>
-
+ 
  
 
 
